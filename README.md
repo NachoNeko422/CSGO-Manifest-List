@@ -3,8 +3,6 @@
 目前只能查到Manifest，不能自动下载等操作。
 而且Manifest是存在json里的，所以时间以2025/8/24日为基准。
 
-![image](https://github.com/NachoNeko422/NachoNekoImage/blob/main/1728104430727.png)
-
 ## 🎯 开始使用
 
 1.在731页面中查找你想要的版本并记住它的年月日
